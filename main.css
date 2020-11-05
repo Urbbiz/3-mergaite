@@ -3,8 +3,8 @@ body {
 }
 
 div {
-    display: block;
-    width: 1000px;
-    margin-left: calc( (100% - 1000px) / 2);
+    display: inline-block;
+    width: 800px;
+    margin-left: calc( (100% - 800px) / 2);
     background-color: cornflowerblue;
 }
